@@ -114,7 +114,6 @@ h6 {
 }
 
 .contact {
-
   display: block;
   padding-top: 32px;
   padding-bottom: 32px;
@@ -142,7 +141,6 @@ h6 {
   text-align: center;
   padding-top: 200px;
   padding-bottom: 200px;
-
 }
 
 .hero-title {
@@ -156,7 +154,6 @@ h6 {
   line-height: 1.36;
   letter-spacing: 0.06em;
   text-transform: uppercase;
-
 }
 
 .button {
@@ -177,12 +174,10 @@ h6 {
   letter-spacing: 0.06em;
   cursor: pointer;
   text-decoration: none;
-
 }
 
 
 .project {
-
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -196,7 +191,6 @@ h6 {
 }
 
 .list-button {
-
   padding: 6px 26px;
   border: 0;
   border-radius: 4px;
@@ -223,9 +217,6 @@ h6 {
   background-color: #2196f3;
 }
 
-
-
-
 .flex {
   display: flex;
   flex-wrap: wrap;
@@ -233,7 +224,6 @@ h6 {
 }
 
 .link-container {
-
   margin-right: 30px;
   margin-bottom: 30px;
   width: 370px;
@@ -254,13 +244,11 @@ h6 {
 }
 
 .section {
-
   padding-top: 94px;
   padding-bottom: 94px;
 }
 
 .first-section {
-
   padding-top: 94px;
   padding-bottom: 0;
 }
@@ -283,7 +271,6 @@ h6 {
 .advantage {
   display: flex;
   flex-wrap: wrap;
-  
 }
 
 .feature-list {
@@ -327,13 +314,11 @@ h6 {
   line-height: 1.2;
 }
 
-
 .images {
 
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  
 }
 
 .item-type:not(:last-child) {
@@ -356,7 +341,6 @@ h6 {
 }
 
 .list-person {
-
   margin-top: 0;
   margin-bottom: 10px;
 
@@ -381,7 +365,6 @@ h6 {
 }
 
 .list-project {
-
   margin: 0;
   
   font-weight: 700;
@@ -391,7 +374,6 @@ h6 {
 }
 
 .list-info {
-
   margin: 0;
   
   font-size: 16px;
@@ -420,7 +402,6 @@ h6 {
 
   padding-top: 60px;
   padding-bottom: 60px;
-
 }
 
 .footer-link {

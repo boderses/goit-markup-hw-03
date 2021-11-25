@@ -244,6 +244,7 @@ h6 {
 }
 
 .section {
+  background-color: #ffffff;
   padding-top: 94px;
   padding-bottom: 94px;
 }
@@ -380,12 +381,10 @@ h6 {
   line-height: 1.9;
 }
 
-.section {
-  background-color: #ffffff;
-}
-
 .team-section {
-  background-color: #ffffff;
+  background-color: #F5F4FA;
+  padding-top: 94px;
+  padding-bottom: 94px;
 }
 
 .members {
